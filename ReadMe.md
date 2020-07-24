@@ -2,5 +2,5 @@
 
 This is a personal practice repository. Where, i will be save all those practice coding files for future utilization and references.
 
-Thank you, For reading.
+Thank you, for reading.
 Md. Mehedi Hasan khan.
