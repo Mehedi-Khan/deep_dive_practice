@@ -5,3 +5,5 @@ This is a personal practice repository. Where, i will be save all those practice
 Thank you, 
 Md. Mehedi Hasan khan.
 
+# Please go to the following link for HTML index : https://mehedi-khan.github.io/deep_dive_practice/index.html
+
