@@ -1,3 +1,5 @@
+Lecture 1 Reference counting & variables
+
 variable : variables are memory address references of objects at which they are stored. in other word, variables are pointers too.
 
 
@@ -6,5 +8,7 @@ Heap :In computer science, a heap is a specialized tree-based data structure whi
 
 memory reference count : counts how many variables are refering to a single object.
 i.e. a = 5,  n = a, now both a and n are refering int object 5 so, reference count = 2, but when no variable refers a object then python memory manager frozes that object automatically.
+
+Lecture : 2 Garbage collection
 
 
